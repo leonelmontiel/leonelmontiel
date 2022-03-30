@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **leonel.montiel@outlook.com**
 
-- 📄 Know about my experiences on [Linkedin/](https://www.linkedin.com/in/leonel-montiel/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/leonel-montiel/)
 
 - ⚡ Fun fact **I dream of visiting Croatia and living in New Zealand or any country in Europe.**
 
