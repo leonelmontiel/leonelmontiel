@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Shoe store simulator, using Javascript and Bootstrap](https://github.com/leonelmontiel/proyecto_final_js_coderhouse)
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/leonelmontiel?tab=repositories)
+- 👨‍💻 All of my projects are available in [my repositories](https://github.com/leonelmontiel?tab=repositories)
 
 - 💬 Ask me about **Java, Javascript, CSS**
 
 - 📫 How to reach me **leonel.montiel@outlook.com**
 
-- 📄 Know about my experiences [in Linkedin/](https://www.linkedin.com/in/leonel-montiel/)
+- 📄 Know about my experiences [on Linkedin/](https://www.linkedin.com/in/leonel-montiel/)
 
 - ⚡ Fun fact **I dream of visiting Croatia and living in New Zealand or any country in Europe.**
 
